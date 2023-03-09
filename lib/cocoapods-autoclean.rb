@@ -1,0 +1,1 @@
+require 'cocoapods-autoclean/gem_version'
